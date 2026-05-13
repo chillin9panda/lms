@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Library Management System</string>
+    <string name="books">Books</string>
+    <string name="authors">Authors</string>
+    <string name="book_inventory">Book Inventory</string>
+    <string name="author_directory">Author Directory</string>
 </resources>
