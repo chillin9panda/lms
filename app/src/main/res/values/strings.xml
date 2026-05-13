@@ -4,4 +4,26 @@
     <string name="authors">Authors</string>
     <string name="book_inventory">Book Inventory</string>
     <string name="author_directory">Author Directory</string>
+    <string name="create">Create</string>
+    <string name="add_new_author">Add New Author</string>
+    <string name="full_name">Full Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="save_author">Save Author</string>
+    <string name="add_new_book">Add New Book</string>
+    <string name="book_title">Book Title</string>
+    <string name="isbn_isbn_xxxx_xxxx">ISBN (ISBN-XXXX-XXXX)</string>
+    <string name="published_year_1900_2026">Published Year (1900 - 2026)</string>
+    <string name="select_genre">Select Genre</string>
+    <string name="select_author">Select Author</string>
+    <string name="save_book">Save Book</string>
+    <string name="no_authors_found_click_to_add_one">No authors found. Click + to add one.</string>
+    <string name="no_books_in_the_library_ntap_the_button_to_add_one">No books in the library.\nTap the + button to add one!</string>
+
+    <string-array name="genre_options">
+        <item>Select Genre</item>
+        <item>Fiction</item>
+        <item>Non Fiction</item>
+        <item>Science</item>
+        <item>Art</item>
+    </string-array>
 </resources>
