@@ -49,11 +49,14 @@ An android application built for managing a library's catalog of authors and boo
 - **ISBN**: Must match the pattern `ISBN-XXXX-XXXX`.
 - **Publication Year**: Restricted to a valid range between `1900` and `2026`.
 - **Author Constraints**: Name length is capped at 50 characters to maintain data hygiene.
+- **Author Email**: need to contain valid email indicator
+- **Valid Form**: Form needs to be filled to submit
 
 ## How to Run
-1. Open in Android Studio Ladybug(Android 5.0)+.
-2. Build and Run on an emulator 
-3. Toggle System Dark Mode to see the UI adapt.
+1. Open in Android Studio Ladybug(Android 5.0)+ in Files > Open Project.
+2. Sync Dependecies
+3. Build and Run on an emulator/physical Device 
+4. Toggle System Dark Mode to see the UI adapt.
 
 ---
 *Developed for the Android Application Development Assignment.*
